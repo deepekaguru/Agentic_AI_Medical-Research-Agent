@@ -1,6 +1,7 @@
 **Clinical Trial Research Agent**
 
 A stateful, privacy-focused AI assistant designed to retrieve and summarize real-world clinical trial data. By combining LangGraph orchestration with a local Llama 3.2 instance, this agent provides researchers with grounded, verifiable data directly from the National Institutes of Health (NIH).
+
 <img width="1892" height="675" alt="image" src="https://github.com/user-attachments/assets/5910e525-b30f-4602-9e60-c2f2c35cac74" />
 
 

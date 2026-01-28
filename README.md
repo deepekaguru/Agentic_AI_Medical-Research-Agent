@@ -19,15 +19,15 @@ Professional UI: Built with Streamlit, featuring custom CSS for data visualizati
 
 **Technical Stack**
 
-Framework: LangGraph
+1. Framework: LangGraph
 
-LLM: Llama 3.2 (Local via Ollama)
+2. LLM: Llama 3.2 (Local via Ollama)
 
-API: ClinicalTrials.gov API v2
+3. API: ClinicalTrials.gov API v2
+   
+4. UI: Streamlit
 
-UI: Streamlit
-
-Language: Python 3.10+
+5. Language: Python 3.10+
 
 **Agentic Architecture**
 
